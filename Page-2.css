@@ -59,15 +59,12 @@ color:white
 }
 a {
   color: orange;
+  font-size: 40px;
   border-radius: 12px;
   background: #00b3ff none repeat scroll 0 0;
   padding:8px;
-  font-size: 40px;
   text-decoration: none;
-  -webkit-text-stroke-width: 1.5px;
-  -webkit-text-stroke-color: black;
 }
-
 .resizethepotato{
 width:600px;
 height:600px;
